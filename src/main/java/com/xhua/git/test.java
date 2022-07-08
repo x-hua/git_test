@@ -9,8 +9,6 @@ public class test {
         System.out.println("hello");
         System.out.println("hello");
         System.out.println("hello");
-        System.out.println("aa");
-        System.out.println("aa");
         System.out.println("aa fox");
         System.out.println("master fox test");
         System.out.println("aa fox test");
